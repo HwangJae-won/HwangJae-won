@@ -7,4 +7,10 @@
 
 통계 대학원에서 딥러닝을 공부하고 있습니다.  NLP에 관심을 가지고 공부하고 있으며, CV 와 GNN에도 관심이 있습니다. 안주하지 않고 발전하는 데이터 사이언티스가 되기 위해 열심히 노력중입니다. 📚🔥
 
+<div align=center><h1>⚒ STACKS ⚒</h1></div>
+
+<div align=center> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"> 
+  
+</div>
