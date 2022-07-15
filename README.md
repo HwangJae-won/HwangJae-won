@@ -1,5 +1,5 @@
 
-<div align=center><h2> ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Emperorone%20Github&fontSize=90)</div>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Emperorone%20Github&fontSize=90)
 
 <div align=center><h2>발전하는 Data Scientist가 되고 싶은 황재원입니다</h1></div>
 
@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">  
  
 </div>
+
+
+<img src="http://mazandi.herokuapp.com/api?handle=dch222&theme=warm"/>
 
 
 
