@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Emperorone%20Github&fontSize=90)
+<div align=center><h2> ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Emperorone%20Github&fontSize=90)</div>
 
 <div align=center><h2>발전하는 Data Scientist가 되고 싶은 황재원입니다</h1></div>
 
