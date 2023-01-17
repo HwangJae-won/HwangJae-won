@@ -18,8 +18,6 @@
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dch222)](https://solved.ac/dch222/)
- 
 </div>
 
 
