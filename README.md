@@ -9,8 +9,8 @@
 
 ⬇️ About Me ⬇️
 
-<a href="https://www.linkedin.com/in/jaewon-hwang-359498224/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://emperor-one-data-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jaewon-hwang-359498224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://emperor-one-data-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 
 
