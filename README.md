@@ -5,7 +5,11 @@
 
 <div align=center> 
 통계 대학원에서 딥러닝을 공부하고 있습니다.  Toxicity Prediction을 주제로 연구하고 있으며, NLP와 GNN에 관심을 가지고 있습니다. </br>
-https://www.linkedin.com/in/jaewon-hwang-359498224/
+
+
+
+<a href="[https://emperor-one-data-study.tistory.com/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-#0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+
 
 </div>
 
