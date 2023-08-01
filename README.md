@@ -4,19 +4,20 @@
 <div align=center><h2>발전하는 Data Scientist가 되고 싶은 황재원입니다</h1></div>
 
 <div align=center> 
-통계 대학원에서 딥러닝을 공부하고 있습니다.  Toxicity Prediction을 주제로 연구하고 있으며, NLP와 GNN에 관심을 가지고 있습니다. </br>
+데이터를 통해 일상 속 다양한 문제를 해결하는 것에 관심이 많습니다. 통계적인 시각과 AI 모델링 역량을 결합하여 사용자의 니즈를 충족시킬 수 있는 데이터 사이언티스트를 꿈꾸고 있습니다. 
+다양한 도메인의 AI 프로젝트 경험과 소통 스킬이 강점입니다. </br>
 
 
-⬇️ About Me ⬇️
 
-<a href="https://www.linkedin.com/in/jaewon-hwang-359498224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=blue"/></a>
-<a href="https://emperor-one-data-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=orange"/></a>
-<a href="https://alpine-fender-f1b.notion.site/Jaewon-Hwang-Portfolio-3987d7365141487aa2005f33e0d4b00a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/aboutdotme-00A98F?style=flat-square&logo=aboutdotme&logoColor=white"/></a>
 
 
 
 </div>
+<div align=center><h2>⬇️ About Me ⬇️</h1></div>
 
+<a href="https://www.linkedin.com/in/jaewon-hwang-359498224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=blue"/></a>
+<a href="https://emperor-one-data-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=orange"/></a>
+<a href="https://alpine-fender-f1b.notion.site/Jaewon-Hwang-Portfolio-3987d7365141487aa2005f33e0d4b00a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/aboutdotme-00A98F?style=flat-square&logo=aboutdotme&logoColor=white"/></a>
 
 <div align=center><h2>⚒ STACKS ⚒</h1></div>
 
