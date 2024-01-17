@@ -1,8 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Emperorone%20Github&fontSize=90)
-
-<div align=center><h2>발전하는 Data Scientist가 되고 싶은 황재원입니다</h1></div>
-
 <div align=center> 
 데이터를 통해 일상 속 다양한 문제를 해결하는 것에 관심이 많습니다. 통계적인 시각과 AI 모델링 역량을 결합하여 사용자의 니즈를 충족시킬 수 있는 데이터 사이언티스트를 꿈꾸고 있습니다. 
 다양한 도메인의 AI 프로젝트 경험과 소통 스킬이 강점입니다. </br>
