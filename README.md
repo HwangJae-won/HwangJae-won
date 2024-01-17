@@ -12,7 +12,6 @@
 <div align=center> 
 <a href="https://www.linkedin.com/in/jaewon-hwang-359498224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=blue"/></a>
 <a href="https://emperor-one-data-study.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=orange"/></a>
-<a href="https://alpine-fender-f1b.notion.site/Jaewon-Hwang-Portfolio-3987d7365141487aa2005f33e0d4b00a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/aboutdotme-00A98F?style=flat-square&logo=aboutdotme&logoColor=white"/></a>
 
 <div align=center><h2>⚒ STACKS ⚒</h1></div>
 
