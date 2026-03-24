@@ -58,8 +58,7 @@
 |--------|--------|-------|--------|
 | 석사 | 중앙대학교 | 통계학 | 2022.03 ~ 2024.02 | 
 | 학사 | 중앙대학교 | 응용통계학 | 2018.03 ~ 2022.02 |
-- 논문: [다중 레이블 독성 예측을 위한 오버샘플링과 분자 특징 추출 방법 비교 연구]([링크](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=bd1cfe3c76156ae2ffe0bdc3ef48d419&keyword=A%20Comparison%20Study%20on%20Oversampling%20and%20Molecular%20Feature%20Extraction%20Methods%20for%20Multi-label%20Toxicity%20Prediction))
-
+- 석사 논문: [다중 레이블 독성 예측을 위한 오버샘플링과 분자 특징 추출 방법 비교 연구](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=bd1cfe3c76156ae2ffe0bdc3ef48d419&keyword=A%20Comparison%20Study%20on%20Oversampling%20and%20Molecular%20Feature%20Extraction%20Methods%20for%20Multi-label%20Toxicity%20Prediction)
 ---
 
 ### 📜 Certification
